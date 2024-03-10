@@ -31,7 +31,7 @@
     <a href="https://linkedin.com/in/marc-sardà-masriera-40a5a026a" target="_blank">
         <img src="https://raw.githubusercontent.com/msardamasri/msardamasri/main/assets/linkedin.svg" alt=linkedin style="margin-bottom: 5px;" />
     </a>
-    <a href="mailto:msardamasri@gmail.com" target="_blank">
+    <a href="mailto:marcsardam@gmail.com" target="_blank">
         <img src="https://raw.githubusercontent.com/msardamasri/msardamasri/main/assets/gmail.svg" alt=gmail style="margin-bottom: 5px;" />
     </a>
 </p>
