@@ -22,6 +22,16 @@
 
 <br/>
 
+## 📈 Github Profile Stats
+
+<p align="center">
+    <a href="https://github.com/msardamasri">
+        <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=msardamasri&hide_border=true&layout=compact&theme=tokyonight&hide=jupyter%20notebook"/>
+    </a>
+</p>
+
+<br/>
+
 ## 📬 Contact me
 
 <p align=center>
