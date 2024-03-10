@@ -21,6 +21,7 @@
 - On a daily basis, I dedicate myself to expanding my knowledge by engaging with a variety of new projects so as to  grow as a developer and to contribute to the community.
 
 <br/>
+
 ## 📬 Contact me
 
 <p align=center>
