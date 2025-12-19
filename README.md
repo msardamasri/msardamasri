@@ -16,9 +16,7 @@
 
 ## 📌 About me
 
-- I'm currently a Software Engineer student at the Universitat Politècnica de Catalunya (UPC | FIB) in Barcelona. I work as a Full Stack Developer, specializing in Java, Angular and Spring Boot. 
-
-- On a daily basis, I dedicate myself to expanding my knowledge by engaging with a variety of new projects so as to  grow as a developer and to contribute to the community.
+- Computer Engineering graduate from UPC and currently pursuing an MSc in Business Analytics at ESADE
 
 <br/>
 
