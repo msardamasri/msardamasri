@@ -1,28 +1,14 @@
-<div align=center>
-    <img src="https://raw.githubusercontent.com/msardamasri/msardamasri/main/assets/github.png" alt="github 3d icon" height="200">
-</div>
-<div align=center>
-    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=5000&pause=700&color=52F7EF&center=true&vCenter=true&width=500&lines=Hi!+I'm+Marc+Sardà;Open-source+enthusiast;Software+Engineer+Student;I'm+FIBer+btw" alt="Typing SVG" /></a>
-</div>
+#### Marc Sardà Masriera
 
-## 📌 About me
+Software engineer at the intersection of ML, cloud, and enterprise systems.  
+BSc Computer Engineering (UPC) · MSc Business Analytics (ESADE)
 
-- Computer Engineering graduate from UPC and currently pursuing an MSc in Business Analytics at ESADE
+---
 
-<br/>
+**Currently** researching LLM fine-tuning applied to financial domain adaptation
 
-## 📬 Contact me
+**Interests** — Solutions Engineering · Data Science · Applied AI · Cloud Architecture
 
-<p align=center>
-    <a href="https://github.com/msardamasri" target="_blank">
-        <img src="https://raw.githubusercontent.com/msardamasri/msardamasri/main/assets/github.svg" alt=github style="margin-bottom: 5px;" />
-    </a>
-    <a href="https://linkedin.com/in/marc-sardà-masriera-40a5a026a" target="_blank">
-        <img src="https://raw.githubusercontent.com/msardamasri/msardamasri/main/assets/linkedin.svg" alt=linkedin style="margin-bottom: 5px;" />
-    </a>
-    <a href="mailto:marcsardam@gmail.com" target="_blank">
-        <img src="https://raw.githubusercontent.com/msardamasri/msardamasri/main/assets/gmail.svg" alt=gmail style="margin-bottom: 5px;" />
-    </a>
-</p>
+---
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
+[linkedin.com/in/marc-sarda-masriera](https://linkedin.com/in/marc-sardà-masriera-40a5a026a) · [marcsardam@gmail.com](mailto:marcsardam@gmail.com)
