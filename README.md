@@ -1,6 +1,6 @@
 #### Marc Sardà Masriera
 
-Sales Engineer @ Didit (YC W26), identity verification infrastructure
+Forward Deployed Engineer @ Didit (YC W26), identity verification infrastructure
 BSc Computer Engineering (UPC) | MSc Business Analytics (ESADE)
 
 ---
