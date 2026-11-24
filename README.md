@@ -1,8 +1,5 @@
-#### Marc Sardà Masriera
+Forward Deployed Engineer at [Didit](https://didit.me) (YC W26). I work on enterprise identity verification integrations and build internal tooling with LLMs. Most of that lives in private repos.
 
-Forward Deployed Engineer @ Didit (YC W26), identity verification infrastructure
-BSc Computer Engineering (UPC) | MSc Business Analytics (ESADE)
+Computer engineering at UPC, MSc in Business Analytics at Esade.
 
----
-
-[linkedin.com/in/marc-sarda-masriera](https://linkedin.com/in/marc-sardà-masriera-40a5a026a) · [marcsardam@gmail.com](mailto:marcsardam@gmail.com)
+[LinkedIn](https://www.linkedin.com/in/marc-sarda-masriera/) · [X](https://x.com/marcsardam) · [marcsardam@gmail.com](mailto:marcsardam@gmail.com)
